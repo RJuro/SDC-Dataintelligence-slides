@@ -21,6 +21,8 @@ output: html_document
 
 # Outline - Getting started with ML&AI in your company
 
+https://images.unsplash.com/photo-1513348355499-5bdba1597a80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+
 * The process we’ve experienced in several companies and what it needs to get started
 * Understanding the technology (Supervised and Unsupervised ML)
 * Identify ML&AI usecases.
@@ -31,13 +33,19 @@ output: html_document
 
 ---
 
+https://images.unsplash.com/photo-1524846220322-612c298733e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+
 # How to start with AI! 
 
 ![](images/big_data.png)
 
 ---
 
+
+
 # How to start with AI! - Not.
+
+https://images.unsplash.com/photo-1572894729864-b468aa2ecfd3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3061&q=80
 
 * Get an AI degree!
 * Hire an AI wizard!
@@ -49,6 +57,8 @@ output: html_document
 
 # AI vs. ML
 
+https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1895&q=80
+
 ![](twitter_what_AI.png)
 
 ![](AI_ifelse.jpeg)
@@ -58,6 +68,8 @@ output: html_document
 ---
 
 # Defining some terms
+
+https://images.unsplash.com/photo-1545228880-9023aeef3bff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 
 * Algorithm: In plain: Input -> Mush -> Output
 * ML: An algorithm which we do not tell how to mush, but it learns by examples
@@ -73,6 +85,8 @@ output: html_document
 
 # AI hype & FOMO
 
+https://images.unsplash.com/photo-1460687521562-9eead9abe9e8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+
 * Emerging technology:  Everybody is excited, magical use-cases in the air.
 * Overhype in news, science, business & technology reporting
 * Lot of misinformation, eg. [MMC report](https://www.mmcventures.com/wp-content/uploads/2019/02/The-State-of-AI-2019-Divergence.pdf): 40% of EU AI startups don't use AI (EC report finds same in EU).
@@ -86,9 +100,14 @@ output: html_document
 
 # Supervised vs. Unsupervised ML (Highlevel)
 
+https://images.unsplash.com/photo-1504711331083-9c895941bf81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+
 ![](ml_types.png)
 
 # Supervised ML: So, what is ML&AI? (in 95% of cases)
+
+
+https://images.unsplash.com/photo-1545579133-99bb5ab189bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 
 Thought Experiment: The AI island
 
@@ -102,6 +121,8 @@ What would you use our friends for?
 ---
 
 # How to think "predictive"?
+
+https://images.unsplash.com/photo-1476889001397-29ad819585e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=915&q=80
 
 Some simple steps: 
 
@@ -118,6 +139,8 @@ Some simple steps:
 
 
 # Predictive Tasks: Examples
+
+https://images.unsplash.com/photo-1476889001397-29ad819585e6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=915&q=80
 
 * Baby food ingredient: safe or spoiled?
 * Patient: ideal medication dosage?
@@ -137,6 +160,8 @@ Some simple steps:
 ---
 
 # Your turn: Spot prediction problems
+
+https://images.unsplash.com/photo-1497005367839-6e852de72767?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1947&q=80
 
 Process
 
@@ -247,6 +272,8 @@ If you check all with yes, your are probably data-driven. If not, don't introduc
 
 # Your turn
 
+https://images.unsplash.com/photo-1497005367839-6e852de72767?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1947&q=80
+
 Think about a cool ML&AI project in your industry to get started!
 
 ---
@@ -263,11 +290,15 @@ Think about a cool ML&AI project in your industry to get started!
 
 # Setting up a team
 
+https://images.unsplash.com/photo-1516184375457-d2d6a1e8d234?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+
 Whom to hire? Let's imagine you can hire 10 people for your new data science team. What kind of people would you look for?
 
 ---
 
 # Setting up a team
+
+https://images.unsplash.com/photo-1516184375457-d2d6a1e8d234?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 
 Something like that?
 
@@ -277,6 +308,8 @@ Something like that?
 
 # Setting up a team
 
+https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1888&q=80
+
 The ML restaurant workflow
 
 ![](workflow.png)
@@ -284,6 +317,8 @@ The ML restaurant workflow
 ---
 
 # Setting up a team 
+
+https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1888&q=80
 
 Who should operate the microwave?
 
@@ -293,6 +328,8 @@ Who should operate the microwave?
 
 # Setting up a team 
 
+https://images.unsplash.com/photo-1470753323753-3f8091bb0232?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+
 Applied data science is highly interdisciplinary.
 
 ![](ds_ven_diagram)
@@ -300,6 +337,8 @@ Applied data science is highly interdisciplinary.
 ---
 
 # The ML-ops team
+
+https://images.unsplash.com/photo-1470753323753-3f8091bb0232?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 
 **Full-stack data scientist:** with business/domain expertise (= DS unicorn): Extremely rare, hard to hire and retain.
 
@@ -313,11 +352,13 @@ Applied ML engineer: Trained in applying ML methods mainly to solve prediction t
 
 ---
 
-# Some of the btter ML cases
+# Some of the better ML cases
 
 ---
 
 # Cases Product: StitchFix 
+
+https://images.unsplash.com/photo-1479064555552-3ef4979f8908?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 
 * Stitch Fix, established in 2011 in San Francisco
 * Collaboration between artificial intelligence (AI) and human stylists
@@ -331,6 +372,8 @@ Applied ML engineer: Trained in applying ML methods mainly to solve prediction t
 
 # Cases Process: How ML Keeps Shelves Stocked at Home Depot
 
+https://images.unsplash.com/photo-1522832712787-3fbd36c9fe2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80
+
 * Shelfout prediction: ≠ Out-of-stock
 * ROI of having full shelves? - They experimented.
 * Building the model: What could cause stuff not to be in the right shelve (collaborative effort)
@@ -339,6 +382,8 @@ Applied ML engineer: Trained in applying ML methods mainly to solve prediction t
 ---
 
 # Cases Service: Chatbot use at Ryanair
+
+
 
 * Most people want to know trivial things: 
 * How much cabin luggage can I carry?
@@ -350,6 +395,8 @@ Applied ML engineer: Trained in applying ML methods mainly to solve prediction t
 
 # Groupwork
 
+https://images.unsplash.com/photo-1497005367839-6e852de72767?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1947&q=80
+
 SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING 
 SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING 
 
@@ -359,3 +406,6 @@ SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING
 
 SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING 
 SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING 
+
+STORMTROOPER
+https://images.unsplash.com/photo-1528030084539-15fe52c20f1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1947&q=80
