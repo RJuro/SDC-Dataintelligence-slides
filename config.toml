@@ -1,0 +1,33 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Data Intelligence for Business Leaders Workshop 2019"
+disableKinds = ["sitemap", "RSS"]
+theme = "hugo-webslides"
+themesDir = "themes"
+tags = ["slide", "presentation", "responsive", "landing page"]
+features = ["webslides.js", "pre-made template", "shortcodes"]
+enableEmoji = true
+
+[params]
+  author = "RJuro"
+  homepage = "RCJacH.github.io"
+
+
+[params.webslides]
+  banner = false
+  slideshow = true
+  vertical = true
+  autoslide = false
+  changeOnClick = false
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = true
+
+[blackfriday]
+extensionsmask = ["autoHeaderIds"]
+
+[social]
+  github = "RJuro.github.io"

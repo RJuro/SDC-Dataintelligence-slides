@@ -1,0 +1,12 @@
+<script src="/juniper.min.js"></script>
+<link rel="stylesheet" href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/316871/fairyfloss.css" />
+
+<script>
+    new Juniper({
+    repo: 'RJuro/blog',
+    theme: 'fairyfloss'
+    });
+    // listen to status updates
+    document.addEventListener('juniper', ev =>
+    console.log('Status:', ev.detail.status))
+    </script>
