@@ -249,3 +249,113 @@ If you check all with yes, your are probably data-driven. If not, don't introduc
 
 Think about a cool ML&AI project in your industry to get started!
 
+---
+
+# Pick your project
+
+* Drones? Self driving cars?
+* If you are not a data-company - consider starting with something that is familiar?
+* Less sexy but you know the business application and can estimate ROIs
+* Airbus: Looks at predictive maintenance instead of autonomous flying…
+* Industrial companies have a huge advantage where it comes to data ownership
+
+---
+
+# Setting up a team
+
+Whom to hire? Let's imagine you can hire 10 people for your new data science team. What kind of people would you look for?
+
+---
+
+# Setting up a team
+
+Something like that?
+
+![](hinton.png)
+
+---
+
+# Setting up a team
+
+The ML restaurant workflow
+
+![](workflow.png)
+
+---
+
+# Setting up a team 
+
+Who should operate the microwave?
+
+![](microwave.png)
+
+---
+
+# Setting up a team 
+
+Applied data science is highly interdisciplinary.
+
+![](ds_ven_diagram)
+
+---
+
+# The ML-ops team
+
+**Full-stack data scientist:** with business/domain expertise (= DS unicorn): Extremely rare, hard to hire and retain.
+
+**Data Analyst/BI guy:** Knows how to answer business questions with tabular workflows, probably a but of (inferential) statistics, and dataviz (diagrams & dashboards). Good starting point when not existing so far.
+
+**Statisticians:** Help decision-makers come to conclusions safely beyond the data. Carry out inferential (why) analysis, inspect data for bias.
+Applied ML engineer: Trained in applying ML methods mainly to solve prediction tasks.
+
+**ML systems enginer:** Trained in developing the tech infrastructure to bring models to production.
+**(Academic) ML researcher:** Often trained in developing ML. Makes most sense when already having specific and demanding use-case. 
+
+---
+
+# Some of the btter ML cases
+
+---
+
+# Cases Product: StitchFix 
+
+* Stitch Fix, established in 2011 in San Francisco
+* Collaboration between artificial intelligence (AI) and human stylists
+* Unsupervised learning paired with similarity search.
+    * What are good combinations?
+    * What products can be used to create the combination or an alternative?
+* Takes in customer profile and order outputs combination recommendations for the stylist
+* Inventory management!
+
+---
+
+# Cases Process: How ML Keeps Shelves Stocked at Home Depot
+
+* Shelfout prediction: ≠ Out-of-stock
+* ROI of having full shelves? - They experimented.
+* Building the model: What could cause stuff not to be in the right shelve (collaborative effort)
+* Result: system warning stockers
+
+---
+
+# Cases Service: Chatbot use at Ryanair
+
+* Most people want to know trivial things: 
+* How much cabin luggage can I carry?
+* What items are allowed in checked in luggage?
+* A less well known function of a chatbot is to classify requests into those that the chatbot can handle and those that require human support.
+* Preselection allows to free up support to help with “real issues”
+
+---
+
+# Groupwork
+
+SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING 
+SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING 
+
+---
+
+# Wrapping up
+
+SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING 
+SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING SOMETHING 
