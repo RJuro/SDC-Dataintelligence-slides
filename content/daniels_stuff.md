@@ -383,7 +383,7 @@ https://images.unsplash.com/photo-1522832712787-3fbd36c9fe2d?ixlib=rb-1.2.1&ixid
 
 # Cases Service: Chatbot use at Ryanair
 
-
+https://images.unsplash.com/photo-1483304528321-0674f0040030?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
 
 * Most people want to know trivial things: 
 * How much cabin luggage can I carry?
